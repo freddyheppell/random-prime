@@ -1,5 +1,5 @@
 # random-prime
-[![npm](https://img.shields.io/npm/v/random-prime.svg)](https://www.npmjs.com/package/random-prime)
+![npm](https://img.shields.io/npm/v/@freddyheppell/random-prime)
 [![Build Status](https://travis-ci.com/freddyheppell/random-prime.svg?branch=master)](https://travis-ci.com/freddyheppell/random-prime)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
