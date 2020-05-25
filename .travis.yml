@@ -4,4 +4,4 @@ node_js:
   - '13'
   - '12'
   - '10'
-before_script: yarn run lint
+before_script: npm run lint

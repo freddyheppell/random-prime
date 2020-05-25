@@ -17,6 +17,7 @@ describe('isPrime()', () => {
     expect(isPrime(235)).toBeFalsy()
     expect(isPrime(15487402)).toBeFalsy()
     expect(isPrime(32416190079)).toBeFalsy()
+    expect(isPrime(287)).toBeFalsy()
   })
   it('throws error for invalid inputs', () => {
     expect(() => isPrime()).toThrow(TypeError)

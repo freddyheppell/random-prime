@@ -9,8 +9,7 @@ const isPrime = number => {
 
   const maxDivisor = Math.floor(Math.sqrt(number))
   for (let i = 5; i <= maxDivisor; i += 6) {
-    // eslint-disable-next-line no-mixed-operators
-    if (number % i === 0 || number % i + 2 === 0) return false
+    if (number % i === 0 || number % (i + 2) === 0) return false
   }
 
   return true
