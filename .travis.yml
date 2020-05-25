@@ -4,8 +4,4 @@ node_js:
   - '13'
   - '12'
   - '10'
-os:
-  - linux
-  - osx
-  - windows
 before_script: yarn run lint
