@@ -1,6 +1,6 @@
 {
   "name": "@freddyheppell/random-prime",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generate a random prime number",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,17 @@
   },
   "xo": {
     "rules": {
-      "curly": [2, "multi-line"]
+      "curly": [
+        2,
+        "multi-line"
+      ]
     },
     "semicolon": false,
     "space": true,
-    "globals": ["describe", "expect", "it"]
+    "globals": [
+      "describe",
+      "expect",
+      "it"
+    ]
   }
 }
