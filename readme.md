@@ -9,7 +9,7 @@ This uses `Math.random` internally.
 
 ## Install
 ```
-npm i random-prime --save
+npm i @freddyheppell/random-prime --save
 ```
 
 ## Example
