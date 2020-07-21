@@ -2,6 +2,19 @@
   "name": "@freddyheppell/random-prime",
   "version": "1.2.2",
   "description": "Generate a random prime number",
+  "repository": "https://github.com/freddyheppell/random-prime",
+  "bugs": "https://github.com/freddyheppell/random-prime/issues",
+  "author": {
+    "name": "Freddy Heppell",
+    "email": "freddy@freddyheppell.com",
+    "website": "https://freddyheppell.com"
+  },
+  "contributors": [
+    {
+      "name": "Prabhakar Poudel",
+      "email": "yuvrajzohan@gmail.com"
+    }
+  ],
   "main": "index.js",
   "scripts": {
     "lint": "xo",
@@ -17,10 +30,6 @@
     "random",
     "range"
   ],
-  "author": {
-    "name": "Prabhakar Poudel",
-    "email": "yuvrajzohan@gmail.com"
-  },
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.0.1",
