@@ -33,7 +33,7 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.0.1",
-    "xo": "^0.30.0"
+    "xo": "^0.33.1"
   },
   "xo": {
     "rules": {
