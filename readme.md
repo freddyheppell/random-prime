@@ -1,6 +1,6 @@
 # random-prime
 ![npm](https://img.shields.io/npm/v/@freddyheppell/random-prime)
-[![Build Status](https://travis-ci.com/freddyheppell/random-prime.svg?branch=master)](https://travis-ci.com/freddyheppell/random-prime)
+[![Build Status](https://github.com/freddyheppell/random-prime/workflows/Test%20&%20Lint/badge.svg?branch=master)](https://github.com/freddyheppell/random-prime/actions?query=branch%3Amaster)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 > Generate a random prime number
